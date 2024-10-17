@@ -1,8 +1,4 @@
 MERN E-COMMERCE PROJECT
-Hello everyone ! this is Ecommerce website created by My Team , Members are 1) Vedang Mule 2)Shivam Raina 3) Deepanshu 4)Sarvesh Damle, check out code below.
-
-Special Thanks To :-Youtuber Abhishek Singh
-
 Prerequisite
 Must have basic knowledge of Node, React, Express, MongoDB . I have made tutorial on each technology on YouTube , make sure to check it out. Links are Below respectively
 Node - https://youtu.be/BSO9C8Z-YV8
