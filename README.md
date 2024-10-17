@@ -1,4 +1,7 @@
-MERN E-COMMERCE PROJECT
+##MERN E-COMMERCE PROJECT
+
+Special Thanks To :-Youtuber Abhishek Singh
+
 Prerequisite
 Must have basic knowledge of Node, React, Express, MongoDB . I have made tutorial on each technology on YouTube , make sure to check it out. Links are Below respectively
 Node - https://youtu.be/BSO9C8Z-YV8
